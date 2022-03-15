@@ -1,7 +1,4 @@
 
-from pyrogram.types import ( InlineKeyboardButton, InlineKeyboardMarkup,ForceReply)
-import humanize
-from helper.database import  insert 
 
 @Client.on_message(filters.private & filters.command(["start"]))
 async def start(client,message):
