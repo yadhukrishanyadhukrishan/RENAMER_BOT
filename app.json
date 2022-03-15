@@ -10,22 +10,22 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
-            "value": ""
+            "value": "15352099"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org @MT_MytelegramOrg_Bot",
-            "value": ""
+            "value": "a5fddd08a3d1375fef2eef6d3e8a8186"
         },
         "TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5197728101:AAEPgYMyfmHbV5d9zesQIwZfrq-pb8R9IFU"
         },
         "ADMIN": {
-            "description":"Add Your User ID @MT_ID_Bot"
+            "description":"Add Your 5207151200 User ID @MT_ID_Bot"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From https://youtu.be/mD9veNL7KoE",
-            "value": ""
+            "value": "mongodb+srv://Yp:y@cluster0.jgirm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
                "description":"Your Mongo DB Database Name ",
